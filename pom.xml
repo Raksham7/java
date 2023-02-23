@@ -21,6 +21,21 @@
 
 	</properties>
 
+	<distributionManagement>
+	
+	    <repository>
+	      <id>nexus</id>
+	      <name>king Nexus Repository</name>
+	      <url>http://54.242.169.0:8081/repository/king/</url>
+	    </repository>
+	    
+	    <snapshotRepository>
+	      <id>nexus</id>
+	      <name>Snapshot Nexus Repository </name>
+	      <url>http://54.242.169.0:8081/repository/snapshot/</url>
+	    </snapshotRepository>
+	    
+	</distributionManagement>
 	<build>
 		<plugins>
 			<plugin>
