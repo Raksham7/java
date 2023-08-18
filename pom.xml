@@ -8,6 +8,8 @@
 	<version>0.1-SNAPSHOT</version>
 	<name>Demo for deploying WAR and JAR files</name>
 
+	<!----------Demo git-webhook------->
+
 	<properties>
 		<java.version>11</java.version>
 		<spring.version>5.1.2.RELEASE</spring.version>
@@ -21,7 +23,6 @@
 
 	</properties>
 
-	----------Demo git-webhook-------
 
 	<distributionManagement>
 	
