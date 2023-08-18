@@ -21,6 +21,8 @@
 
 	</properties>
 
+	----------Demo git-webhook-------
+
 	<distributionManagement>
 	
 	    <repository>
